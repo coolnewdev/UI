@@ -457,7 +457,7 @@
 <head>
   <title
     >{$conversations[$chosenConversationId].title ||
-      "PatrikZero's ChatGPT UI"}</title
+      "ChatGPT UI"}</title
   >
 </head>
 <main class="bg-primary overflow-hidden">
