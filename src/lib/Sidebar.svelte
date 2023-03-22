@@ -60,9 +60,6 @@ You are a therapist. ETC...`;
         New chat
       </button>
       <div class="py-1 select-none">
-        <p class="text-left px-8 font-bold text-xl ">
-          PatrikZero's <br />
-        </p>
         <p class="text-center font-bold text-2xl  leading-4">ChatGPT UI</p>
       </div>
       <div class="flex flex-col h-40 my-2 flex-grow overflow-y-auto ">
